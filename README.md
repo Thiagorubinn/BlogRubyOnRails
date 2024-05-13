@@ -1,24 +1,8 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Projeto em Ruby on Rails.
 
-Things you may want to cover:
+Blog para para postar os livros que leu, com título, descrição e um texto.
 
-* Ruby version
+Após isso ele fica salva e pode fazer outra postagem de outro livro.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Bootcamp DIO formação em Ruby.
